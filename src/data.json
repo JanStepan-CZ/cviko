@@ -1,0 +1,29 @@
+{
+    "ryby": [
+        {
+            "id": 1,
+            "name": "Kapr",
+            "size": "malá"
+
+        },
+        {
+            "id": 2,
+            "name": "Štika",
+            "size": "velká"
+        },
+  {
+            "id": 3,
+            "name": "Okoun",
+            "size": "malá"
+
+        },
+        {
+            "id": 4,
+            "name": "Sumec",
+            "size": "velká"
+        }
+
+
+
+    ]
+}
